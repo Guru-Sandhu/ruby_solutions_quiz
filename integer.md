@@ -1,0 +1,1 @@
+Integer(num) will throw an ArgumentError exception if num isn't a valid integer but num.to_i will convert untill it hits non-numeric element.
